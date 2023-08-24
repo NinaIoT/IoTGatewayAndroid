@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoTGateway</string>
+    <string name="connect_service">connect mqtt service</string>
+</resources>
